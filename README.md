@@ -20,3 +20,4 @@
 - 실습일: 2019.05.30
 - 실습 내용
     - AbstractAnnotationConfigDispatcherServletInitializer 구현
+    - (WebInitializer)
