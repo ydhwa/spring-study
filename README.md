@@ -14,4 +14,9 @@
 ## spring-study-springex3
 - 실습일: 2019.05.29
 - 실습 내용
-    - View Resolver Java로 설정
+    - Java Config
+
+## spring-study-springex4
+- 실습일: 2019.05.30
+- 실습 내용
+    - AbstractAnnotationConfigDispatcherServletInitializer 구현
